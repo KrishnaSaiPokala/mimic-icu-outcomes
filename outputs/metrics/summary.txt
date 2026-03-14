@@ -1,0 +1,6 @@
+Results placeholder for: Predictive Modeling of ICU Outcomes (MIMIC-IV)
+
+Add:
+- main metrics
+- one or two key findings
+- one limitation or next step

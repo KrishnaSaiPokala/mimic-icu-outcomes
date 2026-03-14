@@ -1,0 +1,15 @@
+{
+  "title": "Predictive Modeling of ICU Outcomes (MIMIC-IV)",
+  "repo_name": "mimic-icu-outcomes",
+  "dataset": "MIMIC-IV",
+  "task": "Early prediction of in-hospital mortality from ICU data",
+  "keywords": [
+    "MIMIC-IV",
+    "Clinical Prediction",
+    "SQL",
+    "Healthcare Analytics",
+    "Model Evaluation"
+  ],
+  "level": "graduate portfolio project",
+  "owner": "Krishna Sai Pokala"
+}
